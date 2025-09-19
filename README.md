@@ -4,7 +4,7 @@ An engaging, self-paced entrepreneurship course designed specifically for grades
 
 ## 🌟 Live Demo
 
-**[Access the Interactive Course Here](https://your-deployed-url.com)** *(Update with your deployed URL)*
+**[Access the Interactive Course Here](https://ryanowensed.github.io/TpTMicroBusinessCourse)** *(Update with your deployed URL)*
 
 ## 📚 Course Overview
 
